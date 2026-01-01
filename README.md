@@ -1,0 +1,2 @@
+# Brute-Force-Authentication-Detection-and-Containment-on-Azure-Virtual-Machines
+SOC incident investigation documenting detection, analysis, and containment of external brute-force authentication attempts against Azure virtual machines using Microsoft Defender for Endpoint and Microsoft Sentinel with KQL. Activity was validated, mitigated, mapped to MITRE ATT&amp;CK, and preventive controls were implemented.
